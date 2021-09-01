@@ -1,0 +1,7 @@
+.big-banner {
+  background-image: url("../images/background.jpg");
+  background-size: cover;
+}
+.fresh-content {
+  background: linear-gradient(-45deg, #ec5252, #6c1a52);
+}
